@@ -5,4 +5,4 @@ Rules- Game will play a button in each turn and you have to press all the button
 
 TechStack: HTML, CSS, JavaScript, JQuery
 
-Live Link: 
+Live Link: https://k7aditya.github.io/Memory-Game/
